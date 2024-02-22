@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.bd90d311.css",
-    "main.js": "/react-gh-pages/static/js/main.04c42afc.js",
-    "static/js/592.7f72a991.chunk.js": "/react-gh-pages/static/js/592.7f72a991.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.bd90d311.css.map": "/react-gh-pages/static/css/main.bd90d311.css.map",
-    "main.04c42afc.js.map": "/react-gh-pages/static/js/main.04c42afc.js.map",
-    "592.7f72a991.chunk.js.map": "/react-gh-pages/static/js/592.7f72a991.chunk.js.map"
+    "main.css": "/Textonomy-App--React-JS/static/css/main.bd90d311.css",
+    "main.js": "/Textonomy-App--React-JS/static/js/main.94be4a4c.js",
+    "static/js/592.7f72a991.chunk.js": "/Textonomy-App--React-JS/static/js/592.7f72a991.chunk.js",
+    "index.html": "/Textonomy-App--React-JS/index.html",
+    "main.bd90d311.css.map": "/Textonomy-App--React-JS/static/css/main.bd90d311.css.map",
+    "main.94be4a4c.js.map": "/Textonomy-App--React-JS/static/js/main.94be4a4c.js.map",
+    "592.7f72a991.chunk.js.map": "/Textonomy-App--React-JS/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd90d311.css",
-    "static/js/main.04c42afc.js"
+    "static/js/main.94be4a4c.js"
   ]
 }
